@@ -1,4 +1,4 @@
-# Dự án: Phân tích phân khúc khách hàng dựa trên mô hình RFM kết hợp dữ liệu hành vi số - So sánh K-Means và Hierarchical Clustering
+# Dự án: Phân tích phân khúc khách hàng dựa trên mô hình RFM kết hợp dữ liệu hành vi số - So sánh K-Means và Hierarchical Clustering ( A+ )
 
 ## 📖 Tổng quan
 Dự án này thực hiện phân khúc khách hàng trong thương mại điện tử bằng cách mở rộng mô hình **RFM (Recency - Frequency - Monetary)** truyền thống kết hợp với dữ liệu hành vi trực tuyến (thời gian truy cập, số lượt nhấp chuột). 
